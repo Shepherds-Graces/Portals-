@@ -19,6 +19,7 @@ button{
   position: relative;
   top:50%;
   left:50%;
-  width:1000em;
+  width:20px;
   margin-top: 3em;
+  appearance: none;
 }
