@@ -21,3 +21,5 @@ button{
   width:10em;
   margin-top: 3em;
 }
+
+li{list-style: none;}
