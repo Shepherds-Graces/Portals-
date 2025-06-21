@@ -14,6 +14,10 @@
   text-align: center;
 }
 
-a{
-  width:3em;
+button{
+  position: relative;
+  top:50%;
+  left:50%;
+  width:10em;
+  margin-top: 3em;
 }
