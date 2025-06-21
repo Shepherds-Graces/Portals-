@@ -22,4 +22,6 @@ button{
   margin-top: 3em;
 }
 
-li{list-style: none;}
+li{
+    list-style-type: disc;
+}
