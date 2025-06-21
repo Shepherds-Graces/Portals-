@@ -14,8 +14,8 @@ div .wrap{
   text-align: center;
 }
 
-div .wrap .bch-side{
-    background:#789;
+div .bch-side{
+  background:#789;
   font:300 1.4rem sans-serif;
   height:100vh;
   display:grid;
