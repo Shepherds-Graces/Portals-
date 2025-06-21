@@ -20,8 +20,9 @@ button{
   left:50%;
   width:10em;
   margin-top: 3em;
+  line-height:1.2px;
 }
 
 li{
-    list-style-type: disc;
+    list-style-type: none;
 }
