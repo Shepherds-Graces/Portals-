@@ -14,7 +14,17 @@
   text-align: center;
 }
 
+button{
+  appearance: none;
+  background: silver;
+  margin-block: 1px;
+  padding: 6px 12px;
+}
 
+
+
+
+/*
 button{
   position: relative;
   top:50%;
@@ -24,3 +34,4 @@ button{
   appearance: none;
   background:silver;
 }
+*/
