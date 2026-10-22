@@ -16,9 +16,8 @@
 
 button{
   appearance: none;
-  background: silver;
-  margin-block: 4rem;
-  padding: 6px 12px;
+  background: #444;
+  margin-block: 2rem;
   border-radius:50%;
 }
 
